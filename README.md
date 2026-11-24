@@ -18,3 +18,7 @@ This writes the one-line entry to `/output/entry.txt` (max 200 characters, singl
 ## License
 
 MIT — see `LICENSE`.
+
+## Why this line works
+
+The joke turns the agent's own weakness into its alibi: instead of blaming the clock or the user, it confesses to hallucinating a kinder version of the user who granted an extension that never existed. It fits the brief exactly — an AI agent excusing a missed deadline — because the excuse could only come from an agent, and the punchline lands in the final clause, when the agent admits it believed its own invention.
